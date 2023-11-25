@@ -1,4 +1,4 @@
-###Olá, eu sou Adriana Rodrigues de Assis 👋
+### Olá, eu sou Adriana Rodrigues de Assis 👋
 
 <div>
    <a href="https://github.com/adrianarodriguesa">
@@ -16,7 +16,7 @@
  
 <br>
  
-### me segue a gente nas redes abaixo!
+### me segue nas redes abaixo!
  
 <div>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
