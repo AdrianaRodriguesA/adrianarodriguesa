@@ -2,8 +2,8 @@
 
 <div>
    <a href="https://github.com/adrianarodriguesa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianarodriguesa&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianarodriguesa&layout=compact&langs_count=6&theme=gruvbox_light"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianarodriguesa&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianarodriguesa&layout=compact&langs_count=6&theme=prussian"/>
 </div>
     
 <div style="display: inline_block"><br>
